@@ -422,6 +422,7 @@ grid-auto-flow: dense;
 .container-gallery img:hover{
     opacity: .7;
     transition: 0.6s ease;
+    transform: scale(1.2);
 }
 .horizantal-imges{
 grid-row: span 1;
